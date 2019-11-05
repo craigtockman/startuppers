@@ -130,6 +130,15 @@ export default function About() {
           (singular startuper) (neologism) People who are enthusiastic about the
           formation, creation, and participation in startup business ventures.
         </p>
+        <p>
+          We'd love to hear any feedback you got on the content of our site.
+        </p>
+        <p>
+          <img src='faqemail_retina_01.png' alt='contact' />
+        </p>
+        <p>
+          <img src='numbers_retina.png' />
+        </p>
       </div>
       <style jsx>
         {`

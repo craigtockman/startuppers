@@ -13,9 +13,6 @@ export default function Header() {
       <Link href='/about'>
         <a style={linkStyle}>About</a>
       </Link>
-      <Link href='/contact'>
-        <a style={linkStyle}>Contact</a>
-      </Link>
       <style jsx global>
         {`
           .header {
