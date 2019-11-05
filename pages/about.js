@@ -58,7 +58,10 @@ export default function About() {
           rel='apple-touch-icon-precomposed'
           sizes='144x144'
         />
-        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+        <link
+          href='https://fonts.googleapis.com/css?family=Roboto&display=swap'
+          rel='stylesheet'
+        />
         {/* Global Site Tag (gtag.js) - Google Analytics */}
         <script
           async

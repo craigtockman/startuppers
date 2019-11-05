@@ -72,7 +72,10 @@ export default function Index() {
           async
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
         />
-        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+        <link
+          href='https://fonts.googleapis.com/css?family=Roboto&display=swap'
+          rel='stylesheet'
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -95,11 +98,10 @@ export default function Index() {
           <p>Tell them Milton Hasselbury sent you.</p>
         </div>
         <div className='box-r'>
-          <p>Need a job in a startup?</p>
-          <p>You've come to the wrong place!</p>
+          <p>Need a job in a startup? You've come to the wrong place!</p>
           <p>
             Go to <a href='https://www.startupers.com'>Startupers.com</a> with
-            one "p"!
+            one "p"
           </p>
           <p>
             Where you can find the coolest{' '}
