@@ -32,7 +32,7 @@ export default function Layout(props) {
           }
           body {
             background-color: #f7f7f7;
-            font-family: 'Open Sans', san-serif;
+            font-family: 'Roboto', sans-serif;
             line-height: 1.429em;
             min-width: 0%;
             font-size: 0.875em;

@@ -72,6 +72,7 @@ export default function Index() {
           async
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
         />
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
         <script
           dangerouslySetInnerHTML={{
             __html: `
