@@ -84,9 +84,9 @@ export default function About() {
       <div className='layout'>
         <p>
           Hi I'm Craig the creator of the word "startupers". Ever since I
-          created the word "startupers" in 2006 I've been teased, harassed, and
+          created the word "startupers" in 2006, i've been teased, harassed, and
           generally annoyed by people that believe the word should be spelled
-          with 2 "p"s
+          with 2 "p"s.
         </p>
         <p>
           Here is a prime example{' '}
@@ -99,17 +99,17 @@ export default function About() {
           .
         </p>
         <p>
-          Often when I was confronted with this dispute I would ask, "Why should
-          it have 2 "p"s ?"
+          Often when I was confronted with this dispute, I would ask, "Why
+          should it have 2 "p"s ?"
         </p>
-        <p>"Because the word "upper" has 2 'p's", they would say.</p>
+        <p>"Because the word "upper" has 2 "p"s", they would say.</p>
         <p>
-          Where I would then ask, "Based on that line of thinking how many "p"s.
+          Where I would then ask, "Based on that line of thinking how many "p"s
           does the word startup have?"
         </p>
         <p>
           In responce they would kindly say, "Excuse me but I need to go get
-          another drink before this shit bar closes."
+          another drink before this crappy bar closes."
         </p>
         <p>
           Hopefully you see my point. Many don't. Therefore, after many years of
@@ -118,8 +118,8 @@ export default function About() {
         </p>
         <p>
           So, since I created the word in San Francisco, in a moment of
-          inspiration in 2006 while daydreaming in the basement of a hotel, here
-          is my official definition: Which is also in dispute{' '}
+          inspiration in 2006,2 while daydreaming in the basement of a hotel,
+          here is my official definition: Which is also in dispute{' '}
           <a
             href='https://en.wiktionary.org/wiki/startupper#English'
             target='_blank'
@@ -139,8 +139,7 @@ export default function About() {
         </p>
         <p>
           <img src='faqemail_retina_01.png' alt='contact' />
-        </p>
-        <p>
+          <br />
           <img src='numbers_retina.png' />
         </p>
       </div>
@@ -150,6 +149,9 @@ export default function About() {
             font-size: 20px;
             line-height: 26px;
             margin: 0 0 20px;
+          }
+          img {
+            max-width: 300px;
           }
         `}
       </style>
