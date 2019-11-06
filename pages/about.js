@@ -118,7 +118,7 @@ export default function About() {
         </p>
         <p>
           So, since I created the word in San Francisco, in a moment of
-          inspiration in 2006,2 while daydreaming in the basement of a hotel,
+          inspiration in 2006, while daydreaming in the basement of a hotel,
           here is my official definition: Which is also in dispute{' '}
           <a
             href='https://en.wiktionary.org/wiki/startupper#English'
