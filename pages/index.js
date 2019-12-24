@@ -89,7 +89,7 @@ export default function Index() {
         />
       </Head>
       <h1>Startuppers</h1>
-      <h2>Wrong. It's "Startupers" with one "p".</h2>
+      <h2>Ha ha. Wrong. It's "Startupers" with one "p".</h2>
       <div className='layout'>
         <div className='box-l'>
           <a href='https://www.startupers.com'>
